@@ -26,5 +26,5 @@ Java application to fetch weather data using OpenWeatherMap API.
         
  output 2:       Screenshot  :https://github.com/Chanduparamkusam/-WeatherApp/blob/main/screenshots/Screenshot%202025-04-03%20030613.png(multicity output)
 
-     output 3:   Screenshot  :https://github.com/Chanduparamkusam/-WeatherApp/blob/main/screenshots/Screenshot%202025-04-03%20030632.png(if given incorrect data/name)
+     output 3:Screenshot  :https://github.com/Chanduparamkusam/-WeatherApp/blob/main/screenshots/Screenshot%202025-04-03%20030632.png(if given incorrect data/name)
   
