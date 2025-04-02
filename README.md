@@ -19,6 +19,9 @@ Java application to fetch weather data using OpenWeatherMap API.
 - Fetches real-time weather data for multiple cities.
 - Displays temperature, humidity, and weather conditions.
 - Supports multiple city input.
-'output
-        Screenshot 1 :https://github.com/Chanduparamkusam/-WeatherApp/blob/main/screenshots/Screenshot%202025-04-03%20030420.png
+
+  
+'output :
+        Screenshot 1 :https://github.com/Chanduparamkusam/-WeatherApp/blob/main/screenshots/Screenshot%202025-04-03%20030420.png(single city output)
+        Screenshot 2 :https://github.com/Chanduparamkusam/-WeatherApp/blob/main/screenshots/Screenshot%202025-04-03%20030613.png(multicity output)
   
